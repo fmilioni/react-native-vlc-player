@@ -23,6 +23,12 @@
     "name": "Anthony Bryan Gavilan Vinces",
     "email": "abgv9221@gmail.com"
   },
+  "contributors": [
+    {
+      "name": "Felipe Milioni",
+      "email": "felipemilioni@hotmail.com"
+    }
+  ],
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
